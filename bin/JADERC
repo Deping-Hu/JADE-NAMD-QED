@@ -1,0 +1,15 @@
+#! /usr/bin/env bash
+# suppose the JADE_HOME env. is exported
+#
+# i.e. 
+export JADE_HOME=/home/dhu13/Program/JADE_NAMD
+
+# binary
+export PATH=$JADE_HOME/bin:$PATH
+
+# # interface
+export JADE_HOME_INTERFACE=$JADE_HOME/src/electronic
+export PATH=$JADE_HOME_INTERFACE:$PATH
+## kkr
+export JADE_HOME_INTERFACE=$JADE_HOME/src/krr
+export PATH=$JADE_HOME_INTERFACE:$PATH
