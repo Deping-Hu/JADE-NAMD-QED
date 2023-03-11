@@ -1,0 +1,12 @@
+n_atom       10  
+n_y_dim      2  
+n_traj       10  
+n_freq       2  
+n_select     350  
+n_s0         0  
+n_ci         0  
+Energy_judge 0.5  
+State_judge  60.0  
+filename     traj_time.out 
+label_mu     YES 
+savefile     sample.xyz 

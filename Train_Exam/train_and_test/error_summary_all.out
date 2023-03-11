@@ -1,0 +1,12 @@
+current_gamma: 0.01   current_alpha: 0.01   S: 0   Train_error: 0.000117141043026   Test_error: 0.00251528556388   
+current_gamma: 0.01   current_alpha: 0.01   S: 1   Train_error: 0.000346871552854   Test_error: 0.00448834385191   
+current_gamma: 0.01   current_alpha: 0.01   S: 2   Train_error: 0.00113641849418   Test_error: 0.0116346046873   
+current_gamma: 0.01   current_alpha: 0.01   S: 3   Train_error: 5.70546705053e-05   Test_error: 0.000525262609059   
+current_gamma: 0.01   current_alpha: 0.01   S: 4   Train_error: 7.62532816213e-05   Test_error: 0.00149197226913   
+current_gamma: 0.01   current_alpha: 0.01   S: 5   Train_error: 0.000129317368111   Test_error: 0.00151850743427   
+current_gamma: 0.01   current_alpha: 0.01   S: 6   Train_error: 5.70546705053e-05   Test_error: 0.000525262609059   
+current_gamma: 0.01   current_alpha: 0.01   S: 7   Train_error: 7.62532816213e-05   Test_error: 0.00149197226913   
+current_gamma: 0.01   current_alpha: 0.01   S: 8   Train_error: 0.000129317368111   Test_error: 0.00151850743427   
+current_gamma: 0.01   current_alpha: 0.01   S: 9   Train_error: 0.000109007100271   Test_error: 0.00156063662609   
+current_gamma: 0.01   current_alpha: 0.01   S: 10   Train_error: 0.000288430379903   Test_error: 0.00358823161296   
+current_gamma: 0.01   current_alpha: 0.01   S: 11   Train_error: 0.00159983582357   Test_error: 0.0173305679205   
